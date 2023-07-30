@@ -1,4 +1,4 @@
-![logo](https://github.com/RealUnrealCoder/RealUnrealCoder/blob/main/Banner.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
 <p>
 </p>
 <p>
@@ -38,4 +38,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RealUnrealCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
