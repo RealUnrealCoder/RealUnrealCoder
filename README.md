@@ -5,11 +5,11 @@
 </p>
  💫 About Me
  <br>
-<ol>
-    <br>
+
+<br>
     🔭 I am a student pursuing BS in Data Science from IIT Madras.<br> <br>  👯  I am looking to collaborate in the field of Data Science, Content Creation, Level Design in Unreal, UI/UX<br>         3D modelling etc.<br> <br> 💡   I am       currently learning Front end development.<br> <br>  🙋 Ask me about Game design.<br> <br>  ⚡ Fun fact: I am lazy but smart.
-    <br>
-</ol>
+<br>
+
 
 
 ## 🌐 Socials:
