@@ -1,6 +1,5 @@
 ![Banner](https://github.com/RealUnrealCoder/RealUnrealCoder/blob/main/Banner.png)
-<p>
-</p>
+
 <p>
     <img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding_Gif" width="400" />
 </p>
