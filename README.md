@@ -4,7 +4,8 @@
 <p>
     <img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding_Gif" width="400" />
 </p>
-# 💫 About Me:
+# 💫 About Me
+<br>
   🔭 I am a student pursuing BS in Data Science from IIT Madras.<br> <br>  👯  I am looking to collaborate in the field of Data Science, Content Creation, Level Design in Unreal, UI/UX<br>         3D modelling etc.<br> <br> 💡   I am currently learning Front end development.<br> <br>  🙋 Ask me about Game design.<br> <br>  ⚡ Fun fact: I am lazy but smart.
 
 
