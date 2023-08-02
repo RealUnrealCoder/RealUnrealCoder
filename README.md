@@ -4,7 +4,7 @@
     <img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding_Gif" width="400" />
 </p>
  💫 About Me
- <br>
+ <br> 
 
 <br>
     🔭 I am a student pursuing BS in Data Science from IIT Madras.<br> <br>  👯  I am looking to collaborate in the field of Data Science, Content Creation, Level Design in Unreal, UI/UX<br>         3D modelling etc.<br> <br> 💡   I am       currently learning Front end development.<br> <br>  🙋 Ask me about Game design.<br> <br>  ⚡ Fun fact: I am lazy but smart.
